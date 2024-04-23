@@ -15,10 +15,11 @@ jobs:
     runs-on: ubuntu-latest
     name: Build and Deploy Job
     steps:
-      - name: Install Python 3.9.18
+      - name: Add deadsnakes PPA and Install Python 3.9
         run: |
+          sudo add-apt-repository ppa:deadsnakes/ppa -y
           sudo apt update
-          sudo apt install python3.9.18 -y
+          sudo apt install python3.9 -y
       - uses: actions/checkout@v3
         with:
           submodules: true
@@ -48,3 +49,4 @@ jobs:
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_PURPLE_POND_01D5F4810 }}
           action: "close"
+
