@@ -20,7 +20,7 @@ jobs:
           submodules: true
           lfs: false
       - name: Install apt-utils
-        run: sudo apt-get update && sudo apt-get install -y apt-utils
+        run: sudo DEBIAN_FRONTEND=noninteractive apt-get update && sudo DEBIAN_FRONTEND=noninteractive apt-get install -y apt-utils
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
