@@ -21,7 +21,11 @@ Commit image to repository and link to it.
 ---
 
 ## What did I learn?
-Short paragraph or two about the new skill(s) you learned in this project.  
+This project has taught me many different skills that I can use in the future! The most important skill that I learned while creating this portfolio was how to make a website or webpage. I now understand how to use HTML and CSS scripting to make webpages readable and accessible to others, as well as how to make changes to existing templates for future reference. I learned how to link between different pages, as well as about necessary cybersecurity tricks and tips to keep my code secure. This project has taught me how to run an Azure static website, and how to link my own custom domain to the website and run it.
+
+On top of the skills that I learned to create this project, I also learned how to use Google Analytics to view my user and traffic data. I learned about the importance of having privacy and cookie policies, and how to create a basic template for these pages. In Google Analytics, I learned how to create campaigns to see my different traffic rates, as well as to see how long users are actually on my webpage and viewing my content.
+
+Overall, I gained important knowledge from this project that I intend to continue building on and using into the future.
 
 ---
 
