@@ -63,3 +63,5 @@ Overall, I gained important knowledge from this project that I intend to continu
 
 ## Change log
 date: developer -- change(s) made
+05/06/2024: Gabrielle Kilpatrick -- Editing of README file
+04/29/2024: Gabrielle Kilpatrick -- Attachment of Google Analytics to portfolio page
