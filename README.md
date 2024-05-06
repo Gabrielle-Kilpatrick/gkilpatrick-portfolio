@@ -56,12 +56,8 @@ Overall, I gained important knowledge from this project that I intend to continu
 ## TO-DO
 - [ ] Styling using [Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/) framework  
 - [ ] Update Webpage upon graduation
-- [ ] [feature] Add an a working calendar eventually ([#4][i4])
-- [ ] [bug] Finally fixed this stupid bug ([#5][i5])
-
-[i4]: https://github.com/mikecolbert/dpb-web-form-template/issues/4
-[i5]: https://github.com/mikecolbert/dpb-web-form-template/issues/5
-
+- [ ] Renew custom domain ownership
+- [ ] [feature] Add a working calendar eventually 
 
 ```
 - [x] ~~About page~~
