@@ -16,7 +16,7 @@ Commit image to repository and link to it.
 ![alt text for image](https://github.com/mikecolbert/test/blob/main/test.png) 
 ```
 
-![Portfolio home page](https://github.com/gabrielle-kilpatrick/gkilpatrick-portfolio/images/flower_image.png)
+![Portfolio home page](https://github.com/Gabrielle-Kilpatrick/gkilpatrick-portfolio/blob/main/images/flower_image.png)
 
 ---
 
