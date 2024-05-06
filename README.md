@@ -59,18 +59,6 @@ Overall, I gained important knowledge from this project that I intend to continu
 - [ ] Renew custom domain ownership
 - [ ] [feature] Add a working calendar eventually 
 
-```
-- [x] ~~About page~~
-- [ ] API
-
-- [ ] [feature] Add an awesome feature ([#4][i4])
-- [ ] [bug] Finally fixed this stupid bug ([#5][i5])
-
-[i4]: https://github.com/mikecolbert/dpb-web-form-template/issues/4
-[i5]: https://github.com/mikecolbert/dpb-web-form-template/issues/5
-
-```
-
 ---
 
 ## Change log
