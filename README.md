@@ -28,28 +28,26 @@ Overall, I gained important knowledge from this project that I intend to continu
 
 ---
 
-## Instruction to run the application
+## Instruction to run the page
 
-1. Clone this repository to local computer
+1. Clone this repository to a local computer
 
-2. Create a new virtual environment
+2. Open HTML and CSS Script in an editor of your choosing
 
-   - Windows: `python -m venv ./venv`
-   - Mac: `python3 -m venv ./venv`
+   - For this assignment, I used Visual Studio Code
 
-3. Activate the new virtual environment
+3. Check through CSS and HTML script for accessibili8ty errors or conflicts
 
-   - Windows: `.\venv\Scripts\activate`
-   - Mac: `source ./venv/bin/activate`
+   - I recommend using Wave4 as your accessibility checker
 
-4. Install the dependencies `pip install -r requirements.txt`
+4. Upload updated code to GitHub as a repository
 
-5. Run the program using either:
+5. Connect the newly made repository to the Azure static webpage
 
-   - `flask run`
-   - `python app.py`
+   - Using a custom domain is optional
+   - The free version of a static page will work
 
-6. Use the application by visiting the URL in your web browser
+6. View the webpage by visiting the URL in your web browser
 
 ---
 
