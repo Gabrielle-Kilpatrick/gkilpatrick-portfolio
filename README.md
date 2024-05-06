@@ -72,4 +72,5 @@ date: developer -- change(s) made
 
 ## :100: Author
 List of developers who contributed to the project.
+
 Gabrielle Kilpatrick
