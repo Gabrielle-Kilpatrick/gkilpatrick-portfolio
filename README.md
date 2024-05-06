@@ -54,11 +54,9 @@ Overall, I gained important knowledge from this project that I intend to continu
 ---
 
 ## TO-DO
-- [x] ~~Catch all selected activities in /add and put them into the list~~
-- [x] ~~About page~~
 - [ ] Styling using [Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/) framework  
-- [ ] API
-- [ ] [feature] Add an awesome feature ([#4][i4])
+- [ ] Update Webpage upon graduation
+- [ ] [feature] Add an a working calendar eventually ([#4][i4])
 - [ ] [bug] Finally fixed this stupid bug ([#5][i5])
 
 [i4]: https://github.com/mikecolbert/dpb-web-form-template/issues/4
